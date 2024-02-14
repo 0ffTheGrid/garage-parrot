@@ -5,6 +5,7 @@ html{
     position: relative;
     min-height: 100%;
 }
+
 main{
     margin-bottom: 300px ;
 }
@@ -43,6 +44,17 @@ p{
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        
+
     }
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.card-title {
+    font-weight: bold;
+}
+.card-price{
+    font-weight: bold;
 }
